@@ -1,0 +1,18 @@
+Composite Trapezoidal Rule
+
+   1. Start
+
+   2. Define the function to be integrated, f(x)f(x)
+
+   3. Input limits of integration aa and bb, and number of intervals nn
+
+   4. Calculate the step size h=b−anh = \frac{b - a}{n}
+
+   5. Apply the Composite Trapezoidal rule formula:
+
+I≈h2[f(a)+2∑i=1n−1f(a+ih)+f(b)]I \approx \frac{h}{2} \left[ f(a) + 2 \sum_{i=1}^{n-1} f(a + ih) + f(b) \right]
+
+   6. Output the result
+
+   7. End
+
